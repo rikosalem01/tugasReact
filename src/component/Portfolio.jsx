@@ -1,42 +1,16 @@
 import React from "react";
-// eslint-disable-next-line
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-// eslint-disable-next-line
-import installNode from "../assets/portfolio/installNode.jpg";
-// eslint-disable-next-line
-import navbar from "../assets/portfolio/navbar.jpg";
-// eslint-disable-next-line
-import reactParallax from "../assets/portfolio/reactParallax.jpg";
-// eslint-disable-next-line
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-// eslint-disable-next-line
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import webFinalProject from "../assets/portfolio/webfp.jpg";
+import webShoeStore from "../assets/portfolio/webdc.jpg";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: webFinalProject,
     },
     {
       id: 2,
-      src: reactParallax,
-    },
-    {
-      id: 3,
-      src: navbar,
-    },
-    {
-      id: 4,
-      src: reactSmooth,
-    },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
-      src: reactWeather,
+      src: webShoeStore,
     },
   ];
 
