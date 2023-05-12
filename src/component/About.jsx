@@ -13,14 +13,14 @@ const About = () => {
           </p>
         </div>
         <p className=" text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum impedit cum tempora necessitatibus alias minus, libero ab, numquam fuga nisi sed facilis! Amet esse eligendi ullam voluptatem veniam incidunt facere.
+          Saya merupakan lulusan dari Universitas Darma Persada dengan gelar Sarjana Teknik Informatika. Saya memiliki pengalaman membangun sebuah aplikasi dengan HTML, CSS, JavaScript, React.js, dan Node.js. Saat ini, saya sedang
+          memperdalam keterampilan saya dalam pengembangan web dengan belajar sebagai Full Stack Developer di program bootcamp harisenin.com. Saya sangat antusias untuk mengembangkan karir saya dalam bidang ini dan berharap dapat menemukan
+          kesempatan penuh waktu dalam pengembangan web Full-Stack
         </p>
 
         <br />
 
-        <p className=" text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor praesentium nobis exercitationem voluptate sit quae tenetur eligendi, ducimus assumenda veniam repudiandae facere iure! Quam omnis molestiae maiores nulla ipsa cum!
-        </p>
+        <p className=" text-xl"></p>
       </div>
     </div>
   );
